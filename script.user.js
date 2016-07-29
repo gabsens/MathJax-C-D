@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MathJax pour Cours et Devoirs
 // @version      1.0
-// @description  try to take over the world!
+// @description  Active le rendu Latex avec MathJax
 // @author       spf1
 // @match        http://www.jeuxvideo.com/forums/42*
 // @grant        none

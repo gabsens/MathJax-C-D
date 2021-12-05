@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         MathJax pour Cours et Devoirs
-// @version      2.0
+// @version      2.1
 // @description  Active le rendu Latex avec MathJax
 // @author       spf1
-// @match        http://www.jeuxvideo.com/forums/42-35*
-// @match        http://www.jeuxvideo.com/forums/1-35*
+// @match        https://www.jeuxvideo.com/forums/42-35*
+// @match        https://www.jeuxvideo.com/forums/1-35*
 
 // @grant        none
 // ==/UserScript==
